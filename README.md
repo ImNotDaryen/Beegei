@@ -1,0 +1,2 @@
+# Beegei
+server smp privado 
